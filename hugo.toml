@@ -1,0 +1,48 @@
+baseURL = "http://weebudesu.github.io"
+title = "Weebudesu"
+author = "Weebudesu"
+copyright = "Weebudesu"
+pagination.pagerSize = 10
+languageCode = "en"
+theme = "tailwind"
+
+[markup]
+  _merge = "deep"
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "logo.svg"
+    title = "Weebudesu"
+
+  [params.footer]
+    since = 2025
+    poweredby = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+[social_media]
+  [[social_media.items]]
+      enabled = true
+      title = 'Facebook'
+      icon = 'brand-facebook'
+      link = '#'
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
