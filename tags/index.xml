@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Weebudesu</title>
+    <link>http://weebudesu.github.io/tags/</link>
+    <description>Recent content in Tags on Weebudesu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Weebudesu</copyright>
+    <lastBuildDate>Sat, 05 Apr 2025 08:24:04 +0700</lastBuildDate>
+    <atom:link href="http://weebudesu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Female Protagonist</title>
+      <link>http://weebudesu.github.io/tags/female-protagonist/</link>
+      <pubDate>Sat, 05 Apr 2025 08:24:04 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://weebudesu.github.io/tags/female-protagonist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Male to Female</title>
+      <link>http://weebudesu.github.io/tags/male-to-female/</link>
+      <pubDate>Sat, 05 Apr 2025 08:24:04 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://weebudesu.github.io/tags/male-to-female/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
