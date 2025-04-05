@@ -1,5 +1,6 @@
 baseURL = "http://weebudesu.github.io"
 title = "Weebudesu"
+subtitle = "Baca novel bahasa indonesia."
 author = "Weebudesu"
 copyright = "Weebudesu"
 pagination.pagerSize = 10

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Weebudesu</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://weebudesu.github.io/series/</link>
     <description>Recent content in Series on Weebudesu</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Weebudesu</copyright>
     <lastBuildDate>Sat, 05 Apr 2025 08:24:04 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://weebudesu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EIBGIEF</title>
-      <link>http://localhost:1313/series/eibgief/</link>
+      <link>http://weebudesu.github.io/series/eibgief/</link>
       <pubDate>Sat, 05 Apr 2025 08:24:04 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/series/eibgief/</guid>
+      <guid>http://weebudesu.github.io/series/eibgief/</guid>
       <description></description>
     </item>
   </channel>

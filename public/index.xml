@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weebudesu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://weebudesu.github.io/</link>
     <description>Recent content on Weebudesu</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,82 +10,82 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Weebudesu</copyright>
     <lastBuildDate>Sat, 05 Apr 2025 08:24:04 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://weebudesu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prolog</title>
-      <link>http://localhost:1313/posts/prolog/</link>
+      <link>http://weebudesu.github.io/posts/prolog/</link>
       <pubDate>Sat, 05 Apr 2025 08:24:04 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/posts/prolog/</guid>
+      <guid>http://weebudesu.github.io/posts/prolog/</guid>
       <description>&lt;h1 id=&#34;prolog--awal-dari-runtuhnya-kehidupan-sehari-hari&#34;&gt;Prolog — Awal dari Runtuhnya Kehidupan Sehari-hari&lt;/h1&gt;&#xA;&lt;p&gt;Cinta pertamaku adalah seorang gadis yang sangat manis.&lt;/p&gt;&#xA;&lt;p&gt;Sejak pertama kali kami bertemu, mataku tak pernah lepas darinya.&lt;/p&gt;&#xA;&lt;p&gt;Aku masih ingat dengan jelas, saat pertemuan pertama itu, dia terus bersembunyi di balik tubuh ayahnya, hanya menampakkan sedikit kepalanya sambil mengintipku dengan tatapan malu-malu.&lt;/p&gt;&#xA;&lt;p&gt;Meski ia tak mengucapkan sepatah kata pun, sepasang mata besarnya yang jernih terus berkedip pelan ke arahku, memancarkan rasa ingin tahu yang begitu kuat—terlihat sangat menggemaskan.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/manifest.json</link>
+      <link>http://weebudesu.github.io/manifest.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/manifest.json</guid>
+      <guid>http://weebudesu.github.io/manifest.json</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.de/</link>
+      <link>http://weebudesu.github.io/search/_index.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.de/</guid>
+      <guid>http://weebudesu.github.io/search/_index.de/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.es/</link>
+      <link>http://weebudesu.github.io/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.es/</guid>
+      <guid>http://weebudesu.github.io/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.fr/</link>
+      <link>http://weebudesu.github.io/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.fr/</guid>
+      <guid>http://weebudesu.github.io/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.hi/</link>
+      <link>http://weebudesu.github.io/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.hi/</guid>
+      <guid>http://weebudesu.github.io/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.jp/</link>
+      <link>http://weebudesu.github.io/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.jp/</guid>
+      <guid>http://weebudesu.github.io/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.nl/</link>
+      <link>http://weebudesu.github.io/search/_index.nl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.nl/</guid>
+      <guid>http://weebudesu.github.io/search/_index.nl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.pl/</link>
+      <link>http://weebudesu.github.io/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.pl/</guid>
+      <guid>http://weebudesu.github.io/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.ru/</link>
+      <link>http://weebudesu.github.io/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.ru/</guid>
+      <guid>http://weebudesu.github.io/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/search/_index.zh-cn/</link>
+      <link>http://weebudesu.github.io/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/search/_index.zh-cn/</guid>
+      <guid>http://weebudesu.github.io/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
