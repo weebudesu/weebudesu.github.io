@@ -47,6 +47,15 @@ theme = "tailwind"
     category = "categories"
     tag = "tags"
     series = "series"
-[services]
-  [services.disqus]
-    shortname = 'weebudesu'
+[giscus]
+  enabled = true
+  repo = "weebudesu/weebudesu.github.io"
+  repoID = "R_kgDOIGD7GQ"
+  category = "General"
+  categoryID = "DIC_kwDOIGD7Gc4Coy46"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "top"
+  lang = "en"
