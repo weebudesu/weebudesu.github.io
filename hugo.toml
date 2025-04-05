@@ -47,3 +47,5 @@ theme = "tailwind"
     category = "categories"
     tag = "tags"
     series = "series"
+[disqus]
+  shortname = 'weebudesu'
