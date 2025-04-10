@@ -8,7 +8,7 @@ series = 'EIBGIEF'
 toc = false
 +++
 
-# Prolog — Awal dari Runtuhnya Kehidupan Sehari-hari
+** Prolog — Awal dari Runtuhnya Kehidupan Sehari-hari **
 
 Cinta pertamaku adalah seorang gadis yang sangat manis.
 
@@ -26,13 +26,13 @@ Sampai sekarang, bayangan dirinya yang menggemaskan itu masih jelas terpatri di 
 
 Harus kuakui—saat itu juga, aku langsung jatuh cinta padanya.
 
-Ya, cinta pertamaku adalah putri dari seekor naga jahat. Namanya adalah Fitt.
+Ya, cinta pertamaku adalah putri dari seekor naga jahat. Namanya adalah Fate.
 
 Dan namaku adalah Alucard, putra dari Naga Suci.
 
 Kami berdua berasal dari keluarga naga, status pun seimbang. Karena itu, saat aku jatuh cinta padanya pada pandangan pertama, kedua keluarga kami pun secara alami menyetujui pertunangan.
 
-Sebagai tunanganku, Fitt kemudian mulai tinggal bersamaku setelah pertunangan itu.
+Sebagai tunanganku, Fate kemudian mulai tinggal bersamaku setelah pertunangan itu.
 
 Ah… itu benar-benar masa-masa yang tak akan pernah bisa kulupakan. Teringat kembali saat-saat itu…
 
